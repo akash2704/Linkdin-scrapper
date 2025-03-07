@@ -79,8 +79,4 @@ The CSV will contain columns like:
 ### Contributing
 Contributions are welcome! Please submit issues or pull requests on the GitHub repository. Suggestions for improving selectors, error handling, or performance are encouraged.
 ### Contact
-#!/bin/bash
-
-echo "Contact Information"
-echo "-------------------"
-echo "For questions or support, contact Akash at <a href=\"mailto:akashkallai27@gmail.com\">akashkallai27@gmail.com</a>
+For questions or support, contact Akash at akashkallai27@gmail.com
