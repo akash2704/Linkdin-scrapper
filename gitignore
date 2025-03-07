@@ -13,7 +13,7 @@ linkedin_scraper.log
 # Virtual environment
 env/
 venv/
-*.egg-info/
+
 
 # IDE/project files (optional, add if applicable)
 *.vscode/
