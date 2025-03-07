@@ -1,5 +1,4 @@
-cd /d/akash\ programs/linkdin-scrapper
-cat > .gitignore << 'EOF'
+
 # Environment variables
 .env
 
