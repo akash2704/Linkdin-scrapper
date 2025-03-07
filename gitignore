@@ -1,0 +1,27 @@
+cd /d/akash\ programs/linkdin-scrapper
+cat > .gitignore << 'EOF'
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output files
+linkedin_data_output.csv
+linkedin_scraper.log
+
+# Virtual environment
+env/
+venv/
+*.egg-info/
+
+# IDE/project files (optional, add if applicable)
+*.vscode/
+*.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+EOF
