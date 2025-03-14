@@ -1,8 +1,0 @@
-2025-03-14 13:21:57,158 - INFO - ====== WebDriver manager ======
-2025-03-14 13:21:59,235 - INFO - Get LATEST chromedriver version for google-chrome
-2025-03-14 13:21:59,439 - INFO - Get LATEST chromedriver version for google-chrome
-2025-03-14 13:21:59,547 - INFO - Driver [C:\Users\akash\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
-2025-03-14 13:22:18,819 - INFO - Page source length for https://startuptalky.com/indian-startups-funding-investors-data-2025/: 94446
-2025-03-14 13:22:18,825 - INFO - Table headers for March 2025: ['Company', 'Sector', 'Headquarters', 'Amount', 'Funding Round Type', 'Lead Investors']
-2025-03-14 13:22:18,826 - INFO - Scraped 11 rows for March 2025 from https://startuptalky.com/indian-startups-funding-investors-data-2025/
-2025-03-14 13:22:18,992 - INFO - March 2025 data saved to startupweekly_march_2025.csv
